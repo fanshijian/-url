@@ -1,7 +1,7 @@
 # -url
 
 
-This is a url about my experiment report.
+This is a url for my experiment report.
 
 Hello teacher,I am 范诗健（Fan，Shijian）
 
