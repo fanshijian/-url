@@ -22,4 +22,5 @@ adress: dormitory 7, room 506
 hobby: flute,erhu
 
 
-THanks for your reading.
+THanks for your reading. Enjoy this amazing day.
+
