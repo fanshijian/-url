@@ -17,6 +17,8 @@ email adress: sfan03@qub.ac.uk (就是我发送的这个)
 
 Phone number:（+86）18940272800
 
+wechat ID: anshanjianjian
+
 adress: dormitory 7, room 506
 
 hobby: flute,erhu
